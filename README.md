@@ -1,6 +1,6 @@
 # soccer
 
-Moteurs --> /motor 
-Robot Défenseur --> /defender
-Robot Attaquant --> /attack
-Couleurs et caméra --> /cameracolor
+Moteurs --> /motors
+Robot Défenseur --> /defenderbot
+Robot Attaquant --> /attackerbot
+Couleurs et caméra --> /camera
